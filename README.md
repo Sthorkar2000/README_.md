@@ -1,5 +1,4 @@
 # README_.md
-My solutions to some of the practice exercises on Hackerrank! www.Hackerrank.com
-
+Some of my solutions to Hackerrank Challenges and basic programs.
 
 Profile:- https://www.hackerrank.com/Sthorkar
